@@ -1,0 +1,24 @@
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.csproj.AssemblyReference.cache
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.csproj.SuggestedBindingRedirects.cache
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.Methods.resources
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.Menu.resources
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.Properties.Resources.resources
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.csproj.GenerateResource.cache
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.csproj.CoreCompileInputs.cache
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\bin\Debug\LASTLABAuuy.exe.config
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\bin\Debug\LASTLABAuuy.exe
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\bin\Debug\LASTLABAuuy.pdb
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.exe
+C:\Users\sviri\source\repos\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.pdb
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\bin\Debug\LASTLABAuuy.exe.config
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\bin\Debug\LASTLABAuuy.exe
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\bin\Debug\LASTLABAuuy.pdb
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.csproj.AssemblyReference.cache
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.csproj.SuggestedBindingRedirects.cache
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.Methods.resources
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.Menu.resources
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.Properties.Resources.resources
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.csproj.GenerateResource.cache
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.csproj.CoreCompileInputs.cache
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.exe
+C:\studies\4 сем\выч мат\вычмат_лр6\LASTLABAuuy\LASTLABAuuy\obj\Debug\LASTLABAuuy.pdb
